@@ -1,0 +1,66 @@
+.say{
+    font-size: 25px;
+    font-weight: 700;
+}
+.cut{
+    color: grey;
+    font-size: 15px;
+}
+.SET{
+    font-size: 15px;
+    font-weight: 600;
+}
+.SET1{
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.cons{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding: 10px;
+}
+.oi{
+    font-size: 15px;
+    color: grey;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.ret{
+    width: 628px;
+    height: 60px;
+   background-color: azure
+;}
+.op{
+    width: 958px;
+}
+.you{
+    font-size: 14px;
+    margin-top: 1px;
+}
+.der{
+    font-size: 10px;
+    color: grey;
+    margin-top: -14px;
+    margin-left: 40px;
+}
+.pu{
+    margin-left: 20px;
+}
+.po{
+    border-color: seagreen;
+   width: 100px;
+   height: 40px;
+    border-width: 1px;
+    border-radius: 4px;
+    margin-left: 430px;
+    margin-top: -45px;
+   
+}
+.poi{
+    font-size: 12PX;
+    color: seagreen;
+    text-decoration: none;
+}

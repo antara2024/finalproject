@@ -1,0 +1,128 @@
+.image-headding6{
+margin-top: 80px;
+}
+.tt {
+    padding-top: 40px;
+    margin-left: 500px;
+    color: gray !important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+    font-family: 'Dancing Script', cursive !important;
+}
+.vvt{
+    margin-left: 374px;
+}
+.row1 {
+    margin-right: 200px !important;
+}
+.container1 {
+    margin: 10px !important;
+    padding: 10px !important;
+    border: 1px solid #ebebeb;
+    margin-top: 45px;
+    
+
+}
+.row {
+    width: 100% !important;
+    text-align: center !important;
+    padding-left: 8px !important;
+    padding-top: 45px !important;
+    padding-bottom: 84px !important;
+}
+.image-heading {
+    padding-bottom: 50px;
+    margin-top: -227px;
+    margin-right: 180px;
+    color: rgb(22, 22, 22);
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 700;
+}
+.img-section-trending {
+    margin-top:10px;
+    margin-right: 50px;
+    border-radius: 10px;
+    height: 400px !important;
+    width: 295px !important;
+    margin-bottom: 44px;
+}
+
+.nav-link{
+    margin-right: 20px;
+}
+.ui{
+    color: rgb(141, 32, 68);
+    margin-top:9px;
+    width: 20px;
+    height: 20px;
+}
+.ui:hover{
+    color: rgb(104, 23, 97);
+}
+.dry:hover{
+    font-weight: bold;
+    text-decoration: none;
+    color: deeppink ;
+}
+.pet{
+    color: rgb(160, 38, 79);
+    margin-top: 13px;
+}
+.pet:hover{
+    color: rgb(97, 13, 86);
+}
+.try{
+    color: rgb(136, 40, 72);
+    margin-top: 13px;
+    font-weight: bold;
+}
+.try:hover{
+    color: rgb(94, 18, 97);
+}
+.navbar-brand{
+    color: rgb(194, 37, 142) !important;
+    font-weight: bolder !important;
+    font-size: 30px !important;
+}
+.nav-item{
+    margin-left: 50px;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+}
+.d-flex{
+    margin-left: 150px;
+}
+.pas{
+    margin-top: 6px;
+    margin-right: 25px;
+}
+.po{
+    font-size: 20px;
+    font-weight: normal;
+}
+@media only screen and (max-width:700px) and (min-width:500px){
+    .tt{
+        margin-left: 170px;
+        font-size: 17px !important;
+        text-align: center;
+    }
+    .vvt{
+        margin-left: 10px;
+        margin-right: 20px;
+        font-size: 10px;
+        text-align: center;
+    }
+}
+.yellow{
+    color: rgb(209, 191, 32);
+    
+}
+.wow{
+    margin-right: -13px;
+    margin-top: -24px;
+}
+.in{
+    margin-left: -50px;
+}

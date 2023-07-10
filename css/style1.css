@@ -1,0 +1,548 @@
+.mb-3{
+    width: 350px;
+    margin-left: 68px;
+}
+.btn-outline-success{
+font-size: 15px !important;
+background-color: blue !important;
+color: white !important;
+margin-right: -150px !important;
+width: 120px !important;
+ }
+ .tan{
+    margin: -35px;
+    height: 400px;
+    background-color: rgb(210, 208, 230);
+ }
+ .tan1{
+    margin: auto;
+   margin-top: 30px;
+    width: 500 !important;
+    height: 300px;
+    border-radius: 8px;
+    margin-left: 410px;
+    margin-right: 410px;
+    background-color: white;
+ }
+ .ban{
+    margin-top: 30px !important;
+ }
+ .ban{
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 20px;
+    font-weight: bold;
+    padding: 18px 16px 18px 18px;
+}
+._9nq2 {
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 20px;
+  margin-left: 20px;
+    margin-bottom: 16px;
+
+}
+._9o1w {
+    color: grey;
+    border: none;
+  border-radius: 6px;
+    border-color: grey;
+    font-family: Roboto-Regular, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    height: auto;
+    margin-bottom: 0;
+    padding: 16px 0 16px 16px;
+    width: 444px;
+    margin-left: 60px;
+}
+.pan{
+    padding: 3px;
+}
+.pp{
+    text-decoration: none !important;
+    background-color: #e4e6eb;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+   height: 40px;
+    margin-left: 300px;
+    width: 117px;
+  padding: 0 20px;
+    color:rgb(65, 62, 62);
+    
+}
+._9nq0 {
+    background-color: #1877f2;
+    border: none;
+    width: 117px;
+    border-radius: 6px;
+    font-size: 15px;
+   line-height: 36px;
+    margin-left: 430px;
+    margin-top: -101px;
+    font-family: inherit;
+    color: #fff;
+}
+.run{
+ border-radius: 8px;
+    background-color: white;
+   margin-left: 420px;
+   margin-right: 420px;
+   width: 500px;
+   height: 340px;
+}
+.pink{
+    height: 500px;
+background-color: rgb(250, 251, 253);
+}
+.form{
+    width: 500px;
+}
+.form-label{
+    font-size: 18px;
+    font-style: inherit;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: -35px;
+}
+.op{
+    font-size: 18px;
+    margin-left: 35px;
+    margin-right: 15px;
+    margin-bottom: -7px;
+}
+.ip{
+    border-radius: 6px;
+    border-color: grey;
+    width: 400px;
+    margin-left: 49px;
+    margin-right: 15px;
+    height: 40px;
+}
+.nan{
+    width: 285px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    color: black;
+    background-color: rgb(231, 30, 147);
+    margin-left: 100px;
+    margin-right: 10px;
+    padding-top: -95px;
+    font-size: 22px;
+}
+.navbar-brand{
+    color: rgb(194, 37, 142);
+    font-weight: bolder !important;
+    font-size: 30px !important;
+}
+.d-flex{
+    margin-left: 500px;
+}
+.pas{
+    margin-top: 6px;
+    margin-right: 25px;
+}
+.po{
+    font-size: 20px;
+    font-weight: normal;
+}
+.ui{
+    color: rgb(141, 32, 68);
+    margin-top:9px;
+    width: 20px;
+    height: 20px;
+}
+.ui:hover{
+    color: rgb(104, 23, 97);
+}
+.dry:hover{
+    font-weight: bold;
+    text-decoration: none;
+    color: deeppink ;
+}
+.pet{
+    color: rgb(160, 38, 79);
+    margin-top: 13px;
+}
+.pet:hover{
+    color: rgb(97, 13, 86);
+}
+.try{
+    color: rgb(136, 40, 72);
+    margin-top: 13px;
+    font-weight: bold;
+}
+.try:hover{
+    color: rgb(94, 18, 97);
+}
+.van{
+    border: none;
+    border-radius: 3px;
+    color: black;
+    background-color:blue;
+    margin-left: 425px;
+    margin-top: -95px;
+}
+.hr{
+    width: 500px;
+}
+.kon{
+    margin-top: 50px;
+    margin-left: 419px;
+    width: 500px;
+    height: 200px;
+}
+.mb{
+    width: 420px;
+    margin-left: 36px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+.hh{
+    margin-top: 45px;
+}
+.navbar-brand{
+    color: rgb(214, 75, 191) !important;
+    font-weight: bold !important;
+    font-size: 30px !important;
+}
+.nav-item{
+    margin-top: 4px;
+}
+.container-fluid{
+    background-color: white !important;
+}
+@media only screen and (max-width:520px){
+    .run{
+        justify-items: center !important;
+        position: absolute;
+        margin-left: 0px;
+        width: 450px;
+        mar
+    }
+    .pink{
+        justify-items: center ;
+        width : 450px;
+        margin: 15px;
+        position: absolute;
+    }
+    .mb-3{
+        justify-items: center;
+        position: absolute;
+        margin-top: -9px;
+    }
+    .op{
+       margin-top: 55px;
+    }
+    .pp{
+        color: grey;
+        margin-top: 20px;
+    }
+    .nan{
+        margin-left: 85px;
+        
+    }
+    .kon{
+        margin-left:30px ;
+        width: 420px;
+    }
+    .btn-primary{
+        margin-top:-4px;
+        
+    }
+}
+@media only screen and (max-width:590px) and (min-width:521px){
+    .run{
+        justify-items: center !important;
+        position: absolute;
+        margin-left: 0px;
+        width: 450px;
+        
+    }
+    .nan{
+        margin-left: 95px;
+        
+    }
+    .kon{
+        margin-left:40px ;
+        width: 450px;
+    }
+    .pink{
+        justify-items:center ;
+        width : 450px;
+        margin: 30px;
+        position: absolute;
+    }
+    .mb-3{
+        justify-items: center;
+        position: absolute;
+        margin-top: -9px;
+    }
+    .op{
+       margin-top: 55px;
+    }
+    .pp{
+        color: grey;
+        margin-top: 20px;
+    }
+    .nan{
+        margin-left: 280px;
+        
+    }
+    .btn-primary{
+        margin-top:-4px;
+        
+    }
+}
+@media only screen and (max-width:680px) and (min-width:591px){
+    .run{
+        justify-items: center !important;
+        position: absolute;
+        margin-left: 0px;
+        width: 450px;
+        
+    }
+    .nan{
+        margin-left: 103px;
+        
+    }
+    .kon{
+        margin-left:80px ;
+        width: 440px;
+    }
+    .pink{
+        justify-items:center ;
+        width : 450px;
+        margin-left: 80px;
+        position: absolute;
+    }
+    .mb-3{
+        justify-items: center;
+        position: absolute;
+        margin-top: -9px;
+    }
+    .op{
+       margin-top: 55px;
+    }
+    .pp{
+        color: grey;
+        margin-top: 20px;
+    }
+    
+    .btn-primary{
+        margin-top:-4px;
+        
+    }
+}
+@media only screen and (max-width:590px) and (min-width:521px){
+    .run{
+        justify-items: center !important;
+        position: absolute;
+        margin-left: 0px;
+        width: 450px;
+        
+    }
+    .pink{
+        justify-items:center ;
+        width : 450px;
+        margin: 30px;
+        position: absolute;
+    }
+    .mb-3{
+        justify-items: center;
+        position: absolute;
+        margin-top: -9px;
+    }
+    .op{
+       margin-top: 55px;
+    }
+    .pp{
+        color: grey;
+        margin-top: 20px;
+    }
+    .nan{
+        margin-left: 280px;
+        
+    }
+    .btn-primary{
+        margin-top:-4px;
+        
+    }
+}
+@media only screen and (max-width:750px) and (min-width:681px){
+    .run{
+        justify-items: center !important;
+        position: absolute;
+        margin-left: 0px;
+        width: 450px;
+        
+    }
+    .pink{
+        justify-items:center ;
+        width : 450px;
+        margin-left: 130px;
+        position: absolute;
+    }
+    .mb-3{
+        justify-items: center;
+        position: absolute;
+        margin-top: -9px;
+    }
+    .op{
+       margin-top: 55px;
+    }
+    .pp{
+        color: grey;
+        margin-top: 20px;
+    }
+    .nan{
+        margin-left: 280px;
+        
+    }
+    .btn-primary{
+        margin-top:-4px;
+        
+    }
+}
+@media only screen and (max-width:810px) and (min-width:751px){
+    .run{
+        justify-items: center !important;
+        position: absolute;
+        margin-left: 0px;
+        width: 450px;
+        
+    }
+    .pink{
+        justify-items:center ;
+        width : 450px;
+        margin-left: 160px;
+        position: absolute;
+    }
+    .mb-3{
+        justify-items: center;
+        position: absolute;
+        margin-top: -9px;
+    }
+    .op{
+       margin-top: 55px;
+    }
+    .pp{
+        color: grey;
+        margin-top: 20px;
+    }
+    .nan{
+        margin-left: 280px;
+        
+    }
+    .btn-primary{
+        margin-top:-4px;
+        
+    }
+}
+@media only screen and (max-width:890px) and (min-width:811px){
+    .run{
+        justify-items: center !important;
+        position: absolute;
+        margin-left: 0px;
+        width: 450px;
+        
+    }
+    .pink{
+        justify-items:center ;
+        width : 450px;
+        margin-left: 200px;
+        position: absolute;
+    }
+    .mb-3{
+        justify-items: center;
+        position: absolute;
+        margin-top: -9px;
+    }
+    .op{
+       margin-top: 55px;
+    }
+    .pp{
+        color: grey;
+        margin-top: 20px;
+    }
+    .nan{
+        margin-left: 280px;
+        
+    }
+    .btn-primary{
+        margin-top:-4px;
+        
+    }
+}
+@media only screen and (max-width:960px) and (min-width:891px){
+    .run{
+        justify-items: center !important;
+        position: absolute;
+        margin-left: 0px;
+        width: 450px;
+        
+    }
+    .pink{
+        justify-items:center ;
+        width : 450px;
+        margin-left: 250px;
+        position: absolute;
+    }
+    .mb-3{
+        justify-items: center;
+        position: absolute;
+        margin-top: -9px;
+    }
+    .op{
+       margin-top: 55px;
+    }
+    .pp{
+        color: grey;
+        margin-top: 20px;
+    }
+    .nan{
+        margin-left: 280px;
+        
+    }
+    .btn-primary{
+        margin-top:-4px;
+        
+    }
+    @media only screen and (max-width:1040px) and (min-width:961px){
+        .run{
+            justify-items: center !important;
+            position: absolute;
+            margin-left: 0px;
+            width: 450px;
+            
+        }
+        .pink{
+            justify-items:center ;
+            width : 450px;
+            margin-left: 200px;
+            position: absolute;
+        }
+        .mb-3{
+            justify-items: center;
+            position: absolute;
+            margin-top: -9px;
+        }
+        .op{
+           margin-top: 55px;
+        }
+        .pp{
+            color: grey;
+            margin-top: 20px;
+        }
+        .nan{
+            margin-left: 280px;
+            
+        }
+        .btn-primary{
+            margin-top:-4px;
+            
+        }
+    }
+}

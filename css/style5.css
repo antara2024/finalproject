@@ -1,0 +1,75 @@
+.navbar1{
+    color: rgb(189, 77, 142);
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.man{
+    border-color: rgb(189, 77, 142) !important;
+    margin-right: 25px;
+    width: 100px;
+    height: 35px;
+    margin-top: 5px;
+    border-radius: 5px;
+    color: rgb(189, 77, 142)  ;
+    border-width: 1px;
+}
+.men{
+    border-color: rgb(189, 77, 142) !important;
+    margin-right: 50px;
+    width: 120px;
+    height: 35px;
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: rgb(226, 43, 150)  ;
+    color: white;
+    border-width: 1px;
+
+}
+.con6{
+    margin: 53px;
+}
+.yr{
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+}
+.pink-color{
+    color: rgb(226, 43, 150);
+    font-size: 35px;
+}
+.cl{
+    height: 20px;
+}
+.su{
+    width: 270px;
+    height: 40px;
+    border-color: grey;
+    border-radius: 5px;
+    border-width: 1px;
+}
+.margin-0{
+    margin-top: -31px;
+}
+.form{
+    margin-left: 270px;
+    background-color: rgb(226, 43, 150);
+    border: 0;
+    height: 40px;
+    width: 110px;
+    margin-top: -49px;
+    border-radius: 5px;
+
+}
+.nav-item{
+    margin-left: 5px;
+    color: black;
+    font-size: 17px;
+}
+.ds{
+    width: 469px;
+    height: 230px;
+}
+.py{
+    margin-top: 20px;
+}
